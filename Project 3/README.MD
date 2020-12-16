@@ -1,5 +1,5 @@
 
-The report is to be found in the folder Report.\n 
+The report is to be found in the folder Report. 
 The code is in the jupyter notebook "Project 3.ipybn". 
 
 The data file was quite big and could not be loaded to github. 
